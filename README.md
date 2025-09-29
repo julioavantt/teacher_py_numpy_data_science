@@ -36,7 +36,7 @@ Hola, soy Julio Avantt!
 8. Métodos.
 9. Números aleatorios.
  
-Puedes ver el video curso en YouTube ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC38RutKRyCUHZ866mTNkUAw?link=https%3A%2F%2Fyoutube.com%2F%40juniorpride)
+Puedes ver el video curso en YouTube en mi canal [Junior Pride](https://www.youtube.com/@juniorpride).
 
 ## Requisitos
 
