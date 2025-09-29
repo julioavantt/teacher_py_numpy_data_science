@@ -40,6 +40,7 @@ Puedes ver el video curso en YouTube en mi canal [Junior Pride](https://www.yout
 
 ## Requisitos
 
-* VSCODE.
-* JUPYTER NOTEBOOK.
-* PYTHON 3.
+* VSCode.
+* Jupyter Notebook.
+* Python 3.
+* NumPy.
